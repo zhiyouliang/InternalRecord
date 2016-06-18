@@ -1,0 +1,4 @@
+E:\liangzhiyou\android\android-tool\android-ndk-r10e\ndk-build NDK_DEBUG=1
+E:\liangzhiyou\android\android-tool\android-ndk-r8e\toolchains\arm-linux-androideabi-4.4.3\prebuilt\windows\lib\gcc\arm-linux-androideabi\4.4.3\include
+E:\liangzhiyou\android\android-tool\android-ndk-r8e\sources\cxx-stl\stlport\stlport
+E:\liangzhiyou\android\android-tool\android-ndk-r8e\platforms\android-14\arch-arm\usr\include
